@@ -1,4 +1,4 @@
 # tdd_exercise
 TDD Exercises
 
-Repository for TDD practice exercise
+Repository for TDD practice exercises.
