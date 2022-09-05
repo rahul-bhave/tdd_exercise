@@ -1,7 +1,7 @@
 # tdd_exercise
 TDD Exercises
 
-Repository for TDD practice exercises.
+This repository helps in TDD exercise.
 
 How to run test:
 1. Clone the repo.
