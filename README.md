@@ -8,4 +8,4 @@ How to run test:
 2. Create python virtual environment.
 3. Install dependencies.
 4. Run test using following command:
-    python -m pytest tests/unit/test_batch_process.py -sv
+    `python -m pytest tests/unit/test_batch_process.py -sv`
