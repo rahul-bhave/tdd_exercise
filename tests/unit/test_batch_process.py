@@ -1,5 +1,5 @@
 """
-This test is used to calculate available quanity after allocating the quanity to the batch process.
+This test is used for calculating available quanity after allocating the quanity to the batch process.
 
 """
 from datetime import date
